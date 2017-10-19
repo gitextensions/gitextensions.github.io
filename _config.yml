@@ -1,0 +1,8 @@
+title: Git Extensions
+description: Git Extensions is a graphical user interface for Git that allows you to control Git without using the commandline
+google_analytics: UA-46578757-1
+show_downloads: false
+theme: jekyll-theme-slate
+
+gems:
+  - jekyll-mentions
