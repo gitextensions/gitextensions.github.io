@@ -1,7 +1,7 @@
   * [Online manual](https://git-extensions-documentation.readthedocs.org/en/latest/)
   * [Issue tracker](http://github.com/gitextensions/gitextensions/issues)
-  * [Mailing list](http://groups.google.com/group/gitextensions)
-  * <a href='https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=WAL2SSDV8ND54&lc=US&item_name=GitExtensions&no_note=1&no_shipping=1&currency_code=EUR&bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted'>Donate</a>
+  * [Our gitter channel](https://gitter.im/gitextensions/gitextensions?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+  * [Donate via OpenCollective](https://opencollective.com/gitextensions)
 
 ## Features
   * Windows Explorer integration for Git
