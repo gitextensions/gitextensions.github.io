@@ -7,7 +7,6 @@
   * Windows Explorer integration for Git
   * Visual Studio (2010/2012/2013/2015/2017) plugin ([download](https://marketplace.visualstudio.com/items?itemName=HenkWesthuis.GitExtensions))
   * Feature rich user interface for Git
-  * Single installer installs Git for Windows, GitExtensions and the mergetool KDiff3
   * 32bit and 64bit support
 
 ## Video Tutorial
