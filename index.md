@@ -6,7 +6,9 @@
 ## Features
 
   * Windows Explorer integration for Git
-  * Visual Studio (2015/2017/2019) plugin ([download](https://marketplace.visualstudio.com/items?itemName=HenkWesthuis.GitExtensions))
+  * Visual Studio plugin
+      * 2022 [download](https://marketplace.visualstudio.com/items?itemName=GitExtensionsApp.VS2022)
+      * 2015/2017/2019 [download](https://marketplace.visualstudio.com/items?itemName=GitExtensionsApp.v341)
   * Feature rich user interface for Git
 
 ## View Commit Log
