@@ -1,5 +1,5 @@
   * [Online manual](https://git-extensions-documentation.readthedocs.org/)
-  * [Issue tracker](http://github.com/gitextensions/gitextensions/issues)
+  * [Issue tracker](https://github.com/gitextensions/gitextensions/issues)
   * [Our gitter channel](https://gitter.im/gitextensions/gitextensions?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
   * [Donate via OpenCollective](https://opencollective.com/gitextensions)
 
@@ -52,7 +52,7 @@ The active community of Git Extensions is supporting Git Extensions since 2008.
 * We thank [SignPath.io](https://signpath.io/) for the free code signing<br />
   <a href="https://signpath.io/" target="_blank"><img src="https://github.com/gitextensions/gitextensions/raw/master/GitUI/Resources/Icons/originals/signpath_logo.png"></a>
 * We thank [SignPath Foundation](https://signpath.org/) for the signing certificate
-* We thank [Yusuke Kamiyamane](http://p.yusukekamiyamane.com/) for the icons ([CCA/3.0](http://creativecommons.org/licenses/by/3.0/))
+* We thank [Yusuke Kamiyamane](https://p.yusukekamiyamane.com/) for the icons ([CCA/3.0](https://creativecommons.org/licenses/by/3.0/))
 
 ### Backers
 
@@ -78,6 +78,6 @@ Support this project by becoming a sponsor. Your logo will show up here with a l
 
 ---
 
-More information in the [Git repo](http://github.com/gitextensions/gitextensions/issues).
+More information in the [Git repo](https://github.com/gitextensions/gitextensions/issues).
 
 Generated from the following [Git repo](https://github.com/gitextensions/gitextensions.github.io).
