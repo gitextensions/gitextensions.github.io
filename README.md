@@ -1,4 +1,4 @@
-![Git Extensions logo](https://cdn.rawgit.com/gitextensions/gitextensions/master/Logo/git-extensions-logo.ico)
+![Git Extensions logo](https://raw.githubusercontent.com/gitextensions/gitextensions/refs/heads/master/setup/assets/Logo/git-extensions-logo-64px.png)
 
 This repo contains the source for the Git Extensions website at https://gitextensions.github.io/.
 
